@@ -1,7 +1,7 @@
 ![MasterHead](https://imgs.search.brave.com/mT2PNe561Ko7Wdl56YqTzhYTTkrwe1-n_EO_1U10WPE/rs:fit:1200:840:1/g:ce/aHR0cHM6Ly9zdGF0/aWMxLm1ha2V1c2Vv/ZmltYWdlcy5jb20v/d29yZHByZXNzL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzEx/L2Rhcmstd2FsbHBh/cGVycy5qcGc)
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h1 align="center">Hi 👋, I'm Ningmua Bruno</h1>
+<h3 align="center">Ningmua Bruno, a name that resonates with versatility, innovation, and an unquenchable thirst for knowledge. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bfaschat&label=Profile%20views&color=0e75b6&style=flat" alt="Bfaschat" /> </p>
 
 <table align="center">
