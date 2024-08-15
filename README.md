@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **dDNAGO** and **REACTJS**
   
 - ⚡ Fun fact **Call me as Bfaschat**
   
