@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Ningmua Bruno</h1>
 <h3 align="center">Ningmua Bruno, a name that resonates with versatility, innovation, and an unquenchable thirst for knowledge. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bfaschat&label=Profile%20views&color=0e75b6&style=flat" alt="Bfaschat" /> </p>
+<a href="https://github.com/abhisheknaiidu/Bfaschat"><img src="https://img.shields.io/github/stars/Bfaschat/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/Bfaschat"><img src="https://img.shields.io/github/forks/Bfaschat/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/Bfaschat/"><img src="https://img.shields.io/github/issues-pr/Bfaschat" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Bfaschat"><img src="https://img.shields.io/github/issues/Bfaschat" alt="Issues Badge"/></a>
+<a href="https://github.com/Bfaschat"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Bfaschat?color=2b9348"></a>
+<a href="https://github.com/aBfaschat"><img src="https://img.shields.io/github/license/Bfaschat?color=2b9348" alt="License Badge"/></a>
 
 <table align="center">
 <tr border="none">
