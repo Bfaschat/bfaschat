@@ -72,6 +72,9 @@
 <h3 align="center">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,python,kotlin&perline=10)](skillicons.dev)
 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://bfaschat.com)
+
 ---
 
 <h3 align="center">Support:</h3>
