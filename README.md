@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Ningmua Bruno</h1>
 <h3 align="center">Ningmua Bruno, a name that resonates with versatility, innovation, and an unquenchable thirst for knowledge. </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bfaschat&label=Profile%20views&color=0e75b6&style=flat" alt="Bfaschat" /> </p>
-<a href="https://github.com/Bfaschat"><img src="https://img.shields.io/github/stars/Bfaschat" alt="Stars Badge"/></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bfaschat&label=Profile%20views&color=0e75b6&style=flat" alt="Bfaschat" /> <a href="https://github.com/Bfaschat"><img src="https://img.shields.io/github/stars/Bfaschat" alt="Stars Badge"/></a> </p>
+
 
 <table align="center">
 <tr border="none">
