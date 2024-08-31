@@ -71,7 +71,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,python,kotlin,java,laravel,php,bootstrap,firebase,go,typescript,html5,nodejs,mongodb,expressjs,tailwindcss,postman,css,javascript&perline=18)](https://bfaschat.com)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,python,kotlin,java,laravel,php,bootstrap,firebase,go,typescript,html,nodejs,mongodb,expressjs,tailwindcss,postman,css,javascript&perline=18)](https://bfaschat.com)
 
 ---
 
