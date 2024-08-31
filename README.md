@@ -70,7 +70,9 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,react-native,vscode,laravel,python,java,kotlin&perline=6)](https://bfaschat.com)
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ---
 
