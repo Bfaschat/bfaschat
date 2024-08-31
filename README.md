@@ -9,19 +9,19 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **dDNAGO** and **REACTJS**
+- 🌱 I’m currently learning **DJANGO** and **REACTJS**
   
 - ⚡ Fun fact **Call me as Bfaschat**
   
-- 🔭 Projects & Profile [Personal Portfolio](https://bfaschat.com/)
+- 🔭 Projects & Profile [Personal Portfolio](https://bfaschat.com/projects)
 
 - 🌱 Looking forward to learn [Laravel](https://laravel.com/) in future.
 
 - 📫 How to reach me **bfaschats@gmail.com**
 
--  📫 Business chat **hello@bfaschat.com**
+-  📫 Business chat **hello@bfas237blog.com**
 
-- Professional websites [Bfas237blog.com](https://Bfas237blog.com/)
+- Personal Blog [Bfas237blog.com](https://Bfas237blog.com/)
 
 - 📄 Best way to master the code is handle the [Error] efficiently.
 
